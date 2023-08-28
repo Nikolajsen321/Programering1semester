@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adferd/Adferd.iml" filepath="$PROJECT_DIR$/Adferd/Adferd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 11/Dag 11.iml" filepath="$PROJECT_DIR$/Dag 11/Dag 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 12/Dag 12.iml" filepath="$PROJECT_DIR$/Dag 12/Dag 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 13/Dag 13.iml" filepath="$PROJECT_DIR$/Dag 13/Dag 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 14/Dag 14.iml" filepath="$PROJECT_DIR$/Dag 14/Dag 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 15/Dag 15.iml" filepath="$PROJECT_DIR$/Dag 15/Dag 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 16/Dag 16.iml" filepath="$PROJECT_DIR$/Dag 16/Dag 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 17/Dag 17.iml" filepath="$PROJECT_DIR$/Dag 17/Dag 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 18/Dag 18.iml" filepath="$PROJECT_DIR$/Dag 18/Dag 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 19/Dag 19.iml" filepath="$PROJECT_DIR$/Dag 19/Dag 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag1 SimpleProgram/Dag 2 SimpleProgram/Dag 2 SimpleProgram.iml" filepath="$PROJECT_DIR$/Dag1 SimpleProgram/Dag 2 SimpleProgram/Dag 2 SimpleProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 20 arktitektur/Dag 20 arktitektur.iml" filepath="$PROJECT_DIR$/Dag 20 arktitektur/Dag 20 arktitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag1 SimpleProgram/Dag 3 modul og if statements/Dag 3 modul og if statements.iml" filepath="$PROJECT_DIR$/Dag1 SimpleProgram/Dag 3 modul og if statements/Dag 3 modul og if statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 4 SimpleProgram/Dag 4 SimpleProgram.iml" filepath="$PROJECT_DIR$/Dag 4 SimpleProgram/Dag 4 SimpleProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 5 Loops/Dag 5 Loops.iml" filepath="$PROJECT_DIR$/Dag 5 Loops/Dag 5 Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 5 Opgaver/Dag 5 Opgaver.iml" filepath="$PROJECT_DIR$/Dag 5 Opgaver/Dag 5 Opgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag1 SimpleProgram/Dag 5 SimpleProgram/Dag 5 SimpleProgram.iml" filepath="$PROJECT_DIR$/Dag1 SimpleProgram/Dag 5 SimpleProgram/Dag 5 SimpleProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 6/Dag 6.iml" filepath="$PROJECT_DIR$/Dag 6/Dag 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 7/Dag 7.iml" filepath="$PROJECT_DIR$/Dag 7/Dag 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag 8/Dag 8.iml" filepath="$PROJECT_DIR$/Dag 8/Dag 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag1 SimpleProgram/Dag1 SimpleProgram.iml" filepath="$PROJECT_DIR$/Dag1 SimpleProgram/Dag1 SimpleProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eksempler enkelt rettede samenhenge/Eksempler enkelt rettede samenhenge.iml" filepath="$PROJECT_DIR$/Eksempler enkelt rettede samenhenge/Eksempler enkelt rettede samenhenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fletning/Fletning.iml" filepath="$PROJECT_DIR$/Fletning/Fletning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFx test/JavaFx test.iml" filepath="$PROJECT_DIR$/JavaFx test/JavaFx test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KajsBilerSU/KajsBilerSU.iml" filepath="$PROJECT_DIR$/KajsBilerSU/KajsBilerSU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kajsbiler arkitektur/Kajsbiler arkitektur.iml" filepath="$PROJECT_DIR$/Kajsbiler arkitektur/Kajsbiler arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasser/Klasser.iml" filepath="$PROJECT_DIR$/Klasser/Klasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min egen Ovelser/Min egen Ovelser.iml" filepath="$PROJECT_DIR$/Min egen Ovelser/Min egen Ovelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave2 Arkitektur/Opgave2 Arkitektur.iml" filepath="$PROJECT_DIR$/Opgave2 Arkitektur/Opgave2 Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO1 23V.iml" filepath="$PROJECT_DIR$/PRO1 23V.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindromer/Palindromer.iml" filepath="$PROJECT_DIR$/Palindromer/Palindromer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt 1/Projekt 1.iml" filepath="$PROJECT_DIR$/Projekt 1/Projekt 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt 2/Projekt 2.iml" filepath="$PROJECT_DIR$/Projekt 2/Projekt 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt 3/Projekt 3.iml" filepath="$PROJECT_DIR$/Projekt 3/Projekt 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt 4/Projekt 4.iml" filepath="$PROJECT_DIR$/Projekt 4/Projekt 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt4 Loshan/Projekt4 Loshan.iml" filepath="$PROJECT_DIR$/Projekt4 Loshan/Projekt4 Loshan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjektKAS/ProjektKAS.iml" filepath="$PROJECT_DIR$/ProjektKAS/ProjektKAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjektKas2/ProjektKas2.iml" filepath="$PROJECT_DIR$/ProjektKas2/ProjektKas2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjektKasABU/ProjektKasABU.iml" filepath="$PROJECT_DIR$/ProjektKasABU/ProjektKasABU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProveEx2022/ProveEx2022.iml" filepath="$PROJECT_DIR$/ProveEx2022/ProveEx2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProveJuni2023/ProveJuni2023.iml" filepath="$PROJECT_DIR$/ProveJuni2023/ProveJuni2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemesterProveEx/SemesterProveEx.iml" filepath="$PROJECT_DIR$/SemesterProveEx/SemesterProveEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SemesterProveJanuar/SemesterProveJanuar.iml" filepath="$PROJECT_DIR$/SemesterProveJanuar/SemesterProveJanuar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sogning/Sogning.iml" filepath="$PROJECT_DIR$/Sogning/Sogning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studie start prove/Studie start prove.iml" filepath="$PROJECT_DIR$/Studie start prove/Studie start prove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YatzyF/YatzyF.iml" filepath="$PROJECT_DIR$/YatzyF/YatzyF.iml" />
+    </modules>
+  </component>
+</project>
